@@ -1,2 +1,3 @@
 IT AWSCLI IS AN UTILITY CAN INTERACT WITH AWS SERVICE
+ it is the command line utility
 
